@@ -124,7 +124,7 @@ Due to the large size of outputs, all results are available here:
 
 ## ⚙️ Installation
 bash
-git clone https://github.com/mhjn1909/ecg-arrythmia-detection
+git clone https://github.com/mhjn1909/ecg-arrhythmia-detection
 cd ptbxl-cnn-bilstm-xai
 pip install -r requirements.txt
 
