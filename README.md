@@ -94,7 +94,7 @@ The model focuses on clinically relevant ECG regions:
 ## 📊 Detailed Evaluation Results
 Due to the large size of outputs, all results are available here:
 
-🔗 https://drive.google.com/drive/folders/125h8Jg_mmaGSOpd_2UjBVfgxI72Bjs0x?usp=sharing  
+🔗 https://drive.google.com/drive/folders/19r6sl0LEXnZpy6pjbyxpq5SM4XHYifRP?usp=sharing
 
 ### 📁 Includes:
 - Confusion matrices  
